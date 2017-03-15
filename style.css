@@ -2,3 +2,14 @@ div{
     width:500px;
     height:500px;
 }
+#title-screen{
+    width:500px;
+    height:500px;
+}
+h1{
+    float:right;
+}
+#start{
+    width:200px;
+    font-size: 20px;
+}
