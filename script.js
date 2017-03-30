@@ -50,6 +50,6 @@ $(document).ready(function() {
     
     $(".right").click(function(){
         addpoint();
-        $
+        $("#counter").val(points);
     });
 });
