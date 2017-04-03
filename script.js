@@ -24,10 +24,10 @@ $(document).ready(function() {
     }
 
     function changegreen(){
-        $("body").css("background-color", "green");
+        $("body").css("background-color", "#60f779");
         }
     function changered(){
-        $("body").css("background-color", "red");
+        $("body").css("background-color", "#ff4732");
         }
     
     $(".right").click(function(){
