@@ -14,7 +14,6 @@ div{
     padding-right: 20%;
 }
 h1{
-    /*float:right;*/
     margin:30px;
     font-family: 'Bowlby One SC', cursive;
     font-size: 60px;
@@ -45,11 +44,24 @@ input{
     border-radius: 5px;
     background-color: #bee7f7;
 }
-.true{
+.selection{
     border-radius: 20px;
+    font-size: 20px;
+    font-family: 'Rock Salt', cursive;
+    background-color:white;
+}
+.true{
     border-color: #b78be5;
 }
 .false {
-    border-radius: 20px;
     border-color: #b52910;
+
+}
+#first{
+    font-size:30px;
+    font-family: 'Comfortaa', cursive;
+}
+h3{
+    font-size:48px;
+    font-family: 'Unica One', cursive;
 }
