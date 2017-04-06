@@ -23,6 +23,9 @@ This true or false game helps teenagers learn new things about the effects of us
 * sources for information: https://www.hhs.gov/ash/oah/adolescent-health-topics/substance-abuse/states/ny.html
 * https://www.toosmarttostart.samhsa.gov/teens/facts/myths.aspx
 * https://teens.drugabuse.gov/drug-facts/alcohol
+* https://teens.drugabuse.gov/drug-facts/marijuana
+* https://www.cdc.gov/alcohol/fact-sheets/alcohol-use.htm
+* https://www.healthstatus.com/health_blog/body-fat-calculator-2/do-men-and-women-process-alcohol-differently/
 * https://www.codecademy.com/courses/a-simple-counter/0/1
 * drinking-fact img: http://www.lhllaw.com/wp-content/uploads/2015/08/underage-drinking_1440781882230_block_1-1024x457.png
 * http://www.lhllaw.com/blog/consequences-of-underage-drinking-at-oklahoma-colleges/
@@ -32,4 +35,5 @@ This true or false game helps teenagers learn new things about the effects of us
 * http://adolescentgrowth.com/wp-content/uploads/2012/05/iStock_000011108684XSmall-2.jpg
 * smoking img: http://st1.ancientfacts.net/wp-content/uploads/2015/11/Drug-Abuse-Ancient-Times.jpg
 * http://www.ancientfacts.net/how-serious-was-drug-abuse-in-ancient-times/
-                
+* Question 4: https://pubs.niaaa.nih.gov/publications/AA67/AA67.htm
+* http://www.pamf.org/teen/risk/alcohol/risks.html
