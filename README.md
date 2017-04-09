@@ -37,3 +37,13 @@ This true or false game helps teenagers learn new things about the effects of us
 * http://www.ancientfacts.net/how-serious-was-drug-abuse-in-ancient-times/
 * Question 4: https://pubs.niaaa.nih.gov/publications/AA67/AA67.htm
 * http://www.pamf.org/teen/risk/alcohol/risks.html
+* weed.jpg : http://www.marijuana.com/blog/news/2014/10/driving-while-high-what-does-impairment-really-mean/
+* beer.jpg:https://bgoodscience.wordpress.com/2011/04/27/beer-bottle-full-or-empty-which-is-best-as-a-weapon/
+* er.jpg:http://www.huffingtonpost.com/2014/05/21/obamacare-emergency-room_n_5352987.html
+* drinking.jpg:https://bgoodscience.wordpress.com/2011/04/27/beer-bottle-full-or-empty-which-is-best-as-a-weapon/
+* coldmedicine.png:https://teens.drugabuse.gov/drug-facts/cough-and-cold-medicine-dxm-and-codeine-syrup
+* dna.jpg:http://kentuckyfertility.com/2016/10/how-much-of-a-role-do-genes-and-family-history-play-in-fertility/
+* menandwomen.jpg:http://www.dailymail.co.uk/health/article-2380887/Alcohol-sexes-Men-tend-drink-theyre-angry-women-feel-depressed-night-out.html
+* depressed.jpg:http://www.retreatlc.com/blog/2014/april/3-ways-drinking-can-damage-your-mental-health.aspx
+* brain.jpg:http://www.msktc.org/tbi/factsheets/Alcohol-Use-After-Traumatic-Brain-Injury
+* 
