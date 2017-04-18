@@ -11,11 +11,17 @@ This true or false game helps teenagers learn new things about the effects of us
 ### Joel's Abstraction
 * Background changes to red if you get the previous question wrong, green if you get it right
 
+### Algorithms
+* Using a random number generator to create numbers assigned to certain colors
+* once finished with the game, the screen turns a random color as a surprise
+
+
 ### Problems and Solutions
 * importing the JQuery library
 * JQuery was not working, ended up being an extra '/'
 * the functions were difficult to figure out, used the internet for guidance
 * labeling the divs right and using the correct selector for JQuery
+* trying to figure out why I could not see the algorithm working, ended up being syntax ( missing(), id instead of class)
 
 
 #### Sources:
@@ -46,4 +52,3 @@ This true or false game helps teenagers learn new things about the effects of us
 * menandwomen.jpg:http://www.dailymail.co.uk/health/article-2380887/Alcohol-sexes-Men-tend-drink-theyre-angry-women-feel-depressed-night-out.html
 * depressed.jpg:http://www.retreatlc.com/blog/2014/april/3-ways-drinking-can-damage-your-mental-health.aspx
 * brain.jpg:http://www.msktc.org/tbi/factsheets/Alcohol-Use-After-Traumatic-Brain-Injury
-* 
